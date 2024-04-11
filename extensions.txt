@@ -1,0 +1,5 @@
+clipboard-indicator@tudmotu.com:47
+compiz-alike-magic-lamp-effect@hermes83.github.com:17
+compiz-windows-effect@hermes83.github.com:21
+shamsi-calendar@gnome.scr.ir:36
+unite@hardpixel.eu:72
