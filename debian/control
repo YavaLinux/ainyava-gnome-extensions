@@ -1,0 +1,8 @@
+Source: ainyava-gnome-extensions
+Maintainer: Hamed Mahmoudkhnai <ainyava@gmail.com>
+Standards-Version: 0.0.2
+Build-Depends: debhelper-compat (=10)
+
+Package: ainyava-gnome-extensions
+Architecture: all
+Description: Ainyava theme for Gnome
